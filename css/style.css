@@ -741,7 +741,6 @@ body::after {
   border-radius: 20px;
   position: relative;
   min-height: 635px;
-  background-attachment: fixed;
 }
 
 .intro__inner::after {
